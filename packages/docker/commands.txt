@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=qucL1F2YEKE&ab_channel=CodeWithRajRanjan - yt link
+
+// the -f flag is used to specify the file name. by default, it would look for docker-compose.yml
+docker-compose -f redis-docker-compose.yml 
